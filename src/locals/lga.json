@@ -1089,5 +1089,82 @@
                 {"code":"WP_WX","name":"Wassa Amenfi East"}
             ]
         }
-    ]
+    ],
+
+    "ZA":[
+        {
+            "ZA_EC": [
+                {"name":"Alfred Nzo District Municipality","code":"EC_DC44"},
+                {"name":"Amathole District Municipality","code":"EC_DC12"},
+                {"name":"Buffalo City Metropolitan Municipality","code":"EC_BUF"},
+                {"name":"Chris Hani District Municipality","code":"EC_DC13"},
+                {"name":"Joe Gqabi District Municipality","code":"EC_DC14"},
+                {"name":"Nelson Mandela Bay Metropolitan Municipality","code":"EC_NMA"},
+                {"name":"O.R. Tambo District Municipality","code":"EC_DC15"},
+                {"name":"Sarah Baartman District Municipality","code":"EC_DC10"}
+            ],
+            "ZA_FS": [
+                {"name":"Fezile Dabi District Municipality","code":"FS_DC20"},
+                {"name":"Lejweleputswa District Municipality","code":"FS_DC18"},
+                {"name":"Mangaung Metropolitan Municipality","code":"FS_MAN"},
+                {"name":"Thabo Mofutsanyana District Municipality","code":"FS_DC19"},
+                {"name":"Xhariep District Municipality","code":"FS_DC16"}
+            ],
+            "ZA_GT": [
+                {"name":"City of Johannesburg Metropolitan Municipality","code":"GT_JHB"},
+                {"name":"City of Tshwane Metropolitan Municipality","code":"GT_TSH"},
+                {"name":"Ekurhuleni Metropolitan Municipality","code":"GT_EKU"},
+                {"name":"Sedibeng District Municipality","code":"GT_DC42"},
+                {"name":"West Rand District Municipality","code":"GT_DC48"}
+            ],
+            "ZA_NL": [
+                {"code":"NL_DC25","name":"Amajuba District Municipality"},
+                {"code":"NL_ETH","name":"EThekwini Metropolitan Municipality"},
+                {"code":"NL_DC43","name":"Harry Gwala District Municipality"},
+                {"code":"NL_DC29","name":"ILembe District Municipality"},
+                {"code":"NL_DC28","name":"King Cetshwayo District Municipality"},
+                {"code":"NL_DC21","name":"Ugu District Municipality"},
+                {"code":"NL_DC22","name":"UMgungundlovu District Municipality"},
+                {"code":"NL_DC27","name":"UMkhanyakude District Municipality"},
+                {"code":"NL_DC24","name":"UMzinyathi District Municipality"},
+                {"code":"NL_DC23","name":"UThukela District Municipality"},
+                {"code":"NL_DC26","name":"UThungulu District Municipality"},
+                {"code":"NL_DC30","name":"Zululand District Municipality"}
+            ],
+            "ZA_LP": [
+                {"name":"Capricorn District Municipality","code":"LP_DC35"},
+                {"name":"Mopani District Municipality","code":"LP_DC33"},
+                {"name":"Sekhukhune District Municipality","code":"LP_DC36"},
+                {"name":"Vhembe District Municipality","code":"LP_DC34"},
+                {"name":"Waterberg District Municipality","code":"LP_DC37"}
+            ],
+            "ZA_MP": [
+                {"name":"Gert Sibande District Municipality","code":"MP_DC30"},
+                {"name":"Nkangala District Municipality","code":"MP_DC31"},
+                {"name":"Ehlanzeni District Municipality","code":"MP_DC32"}
+            ],
+            "ZA_NW": [
+                {"name":"Bojanala Platinum District Municipality","code":"NW_DC37"},
+                {"name":"Dr Kenneth Kaunda District Municipality","code":"NW_DC40"},
+                {"name":"Dr Ruth Segomotsi Mompati District Municipality","code":"NW_DC39"},
+                {"name":"Ngaka Modiri Molema District Municipality","code":"NW_DC38"}
+            ],
+            "ZA_NC": [
+                {"name":"Frances Baard District Municipality","code":"NC_DC09"},
+                {"name":"Gert Sibande District Municipality","code":"NC_DC07"},
+                {"name":"John Taolo Gaetsewe District Municipality","code":"NC_DC45"},
+                {"name":"Namakwa District Municipality","code":"NC_DC07"},
+                {"name":"Pixley ka Seme District Municipality","code":"NC_DC07"},
+                {"name":"ZF Mgcawu District Municipality","code":"NC_DC07"}
+            ],
+            "ZA_WC": [
+                {"name":"Cape Winelands District Municipality","code":"WC_DC2"},
+                {"name":"Central Karoo District Municipality","code":"WC_DC6"},
+                {"name":"City of Cape Town Metropolitan Municipality","code":"WC_CPT"},
+                {"name":"Eden District Municipality","code":"WC_DC4"},
+                {"name":"Overberg District Municipality","code":"WC_DC3"},
+                {"name":"West Coast District Municipality","code":"WC_DC1"}
+            ]
+        }
+    ] 
 }
