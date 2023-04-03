@@ -51,5 +51,16 @@
         {"code":"GH_UW","name":"Upper West"},
         {"code":"GH_TV","name":"Volta"},
         {"code":"GH_WP","name":"Western"}
+    ],
+    "ZA":[
+        {"code":"ZA_EC","name":"Eastern Cape"},
+        {"code":"ZA_FS","name":"Free State"},
+        {"code":"ZA_GT","name":"Gauteng"},
+        {"code":"ZA_NL","name":"KwaZulu-Natal"},
+        {"code":"ZA_LP","name":"Limpopo"},
+        {"code":"ZA_MP","name":"Mpumalanga"},
+        {"code":"ZA_NC","name":"Northern Cape"},
+        {"code":"ZA_NW","name":"North West"},
+        {"code":"ZA_WC","name":"Western Cape"}
     ]
 }
